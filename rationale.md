@@ -1,6 +1,6 @@
 ### Rationale for the ZZ Computing Curriculum Weighting
 
-The ZZ Computing curriculum weighting is designed to provide a comprehensive and balanced approach to teaching computing to primary school children. It emphasizes foundational skills while also preparing students for the demands of the modern world of work. Here's a detailed rationale for each component:
+The ZZ Computing Curriculum weighting is designed to provide a comprehensive and balanced approach to teaching computing to primary school children. It emphasizes foundational skills while also preparing students for the demands of the modern world of work. Here's a detailed rationale for each component:
 
 #### 1. **Programming and Computational Thinking (58%)**
    - **Primary School Suitability**:
