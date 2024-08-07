@@ -2,23 +2,46 @@
 
 | Half-Term       | Focus Area                    | Units                                      |
 |-----------------|-------------------------------|--------------------------------------------|
-| Autumn 1        | Programming                   | Whack-a-Mole (Scratch)                     |
-|                 | Physical Computing            | L.E.D. Animation (Micro:bit)               |
-|                 | Creative Computing            | Alien Adventure (Stop Motion Studio and Cameras)|
-| Autumn 2        | Programming                   | Chatbot (Scratch)                          |
-|                 |                               | End of Term Project (Scratch)              |
-|                 | Physical Computing            | Light Level Alarm (Micro:bit)              |
-| Spring 1        | Programming                   | Fantasy Quest (Scratch )                   |
-|                 | Physical Computing            | Building a Secured Wireless Network (Micro:bit)|
-|                 | Networks                      | Encryption to Secure Wireless Networks     |
-| Spring 2        | Programming                   | Simulated Animal Census (Scratch)          |
-|                 |                               | End of Term Project (Scratch)              |
-|                 | Physical Computing            | Testing Electrical Conductors (Micro:bit)  |
-| Summer 1        | Programming                   | Machine Learning Chatbot (ML4Kids)         |
-|                 | Physical Computing            | Tilt Activated Car (Lego WeDo2)            |
-|                 | Data Literacy                 | Squirrel Census Project                    |
-| Summer 2        | Programming                   | End of Year Project (Scratch)              |
-|                 | Physical Computing            | Fairground Rides (Micro:bit and Lego WeDo2)|
-|                 | Creative Computing            | My Mythical Creature (Paint, PowerPoint and Garageband)|
+| Autumn 1        | Programming                   | Sprite Busters (Scratch)                   |
+|                 | Physical Computing            | Pixel Party (Micro:bit)                    |
+|                 | Creative Computing            | Mr Zog's Earthling Adventure (Stop Motion Studio and Cameras)|
+| Autumn 2        | Programming                   | Animal Guru (Scratch)                      |
+|                 |                               | Scratch-a-Palooza : Create and Innovate! (Scratch)|
+|                 | Physical Computing            | Nighty Night - Wakey Wakey (Micro:bit)     |
+| Spring 1        | Programming                   | The Chronicles of Drakoria - Riddle Quest (Scratch )|
+|                 | Physical Computing            | SecureNet (Micro:bit)                      |
+|                 | Networks                      | Wireless Wizards - Encryption Essentials   |
+| Spring 2        | Programming                   | Wildlife Wonders - The Great Critter Census (Scratch)|
+|                 |                               | Scratch-a-Palooza : Create and Innovate! (Scratch)|
+|                 | Physical Computing            | Circuit Sleuths (Micro:bit)                |
+| Summer 1        | Programming                   | The Guru Returns - Enlightenment (ML4Kids) |
+|                 | Physical Computing            | Tilt Racer X (Lego WeDo2)                  |
+|                 | Data Literacy                 | Squirrel Safari - A New York Odyssey       |
+| Summer 2        | Programming                   | Scratch-a-Palooza : The Big Kahuna! (Scratch)|
+|                 | Physical Computing            | Fairground Frenzy - A Lego and Micro Mashup (Micro:bit and Lego WeDo2)|
+|                 | Creative Computing            | Mythical Masterpieces - Creatures Unleashed! (Paint, PowerPoint and Garageband)|
 
-Each unit is broken down into individual lessons focusing on building knowledge and skills progressively.
+## General Overview of Units
+
+| Unit                          | Description                                     |
+|-------------------------------|-------------------------------------------------|
+| Sprite Busters                | a whack-a-mole style game                       |
+| Pixel Party                   | using LED display for simple animations         |
+| Mr Zog's Earthling Adventure  | one-stop motion animation                       |
+| Animal Guru                   | a chatbot using *imperative programming*        |
+| Scratch-a-Palooza : Create and Innovate! | child led end of term project        |
+| Nighty Night - Wakey Wakey    | using the light sensor to create a night-light and morning alarm|
+| The Chronicles of Drakoria - Riddle Quest | a game in which a player interacts with npcs to solve a riddle|
+| SecureNet                     | using simple encryption algorithms to build a "secure" wireless network|
+| Wireless Wizards - Encryption Essentials | looking at the importance of encryption to secure wireless networks along with simple encryption algorithms                                                             |
+| Wildlife Wonders - The Great Critter Census | an animal census simulator        |
+| Scratch-a-Palooza : Create and Innovate! | child led end of term project        | 
+| Circuit Sleuths               | building an electrical conductor testing circuit|
+| The Guru Returns - Enlightenment| a chatbot which uses *machine learning*       |
+| Tilt Racer X                  | a tilt sensor controlled car                    |
+| Squirrel Safari - A New York Odyssey| a data literacy project using real world squirrel census data from Central Park in NYC|
+| Scratch-a-Palooza : The Big Kahuna!| a child led *end of year* project          |
+| Fairground Frenzy - A Lego and Micro Mashup| a project which combines micro:bits and Lego WeDo2 to create a model fairground ride|
+| Mythical Masterpieces - Creatures Unleashed| a multi-media project based on child created mythical creatures|
+
+Each unit is broken down into individual lessons within the half-term, focusing on building skills progressively.
