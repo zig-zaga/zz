@@ -67,10 +67,10 @@ Here’s a list of key vocabulary that the children will need for the shape-o-ra
 #### 13. **Event**
    - An action that causes something to happen, like clicking a button or completing a loop.
 
-### 14. **Abstraction**
+#### 14. **Abstraction**
    - Simplifying complex reality by modeling classes appropriate to the problem.
 
-### 15. **Decomposition**
+#### 15. **Decomposition**
    - Breaking down a problem into smaller, more manageable parts.
 
 These terms will help the children better understand the concepts and tasks involved in the project, providing them with the language needed to discuss and explore the ideas in their code.
