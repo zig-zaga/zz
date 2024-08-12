@@ -39,5 +39,5 @@ By the end of this three-lesson project, students will be able to create pattern
 
 **Differentiation:**
 - **Less Confident:** Provide template project with partially completed functions for students to complete.
-- **Average Ability:** Encourage experimentation with loops and different shapes - angles of turn can be given or a formula provided for the children to work them out for themselves | divide 360 by the number of sides of the shape e.g. for an octagon the angle of turn = 360 / 8 = 45
+- **Average Confidence:** Encourage experimentation with loops and different shapes - angles of turn can be given or a formula provided for the children to work them out for themselves | divide 360 by the number of sides of the shape e.g. for an octagon the angle of turn = 360 / 8 = 45
 - **More Confident:** Challenge students to create a pattern using multiple shapes within one function.
